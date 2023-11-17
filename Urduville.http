@@ -1,0 +1,6 @@
+@Urduville_HostAddress = http://localhost:5045
+
+GET {{Urduville_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
